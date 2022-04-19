@@ -4,12 +4,6 @@
  * MIT Licensed
  */
 
-'use strict'
-
-/**
- * Module exports.
- * @public
- */
 module.exports = xakify;
 
 const DEFAULT_MASKING_REGEX = /[a-zA-Z0-9ㄱ-힣]/g;
