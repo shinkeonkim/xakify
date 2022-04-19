@@ -1,6 +1,6 @@
 {
   "name": "xaskify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "maskify page",
   "main": "index.js",
   "bugs": "https://github.com/shinkeonkim/xaskify/issues",
