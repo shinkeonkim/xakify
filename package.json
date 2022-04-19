@@ -1,0 +1,14 @@
+{
+  "name": "xakify",
+  "version": "1.0.0",
+  "description": "maskify page",
+  "main": "index.js",
+  "bugs": "https://github.com/shinkeonkim/xaskify/issues",
+  "repository": {
+    "url": "https://github.com/shinkeonkim/xaskify.git",
+    "type": "git"
+  },
+  "author": "shinkeonkim <singun11@kookmin.ac.kr>",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.0"
+}
