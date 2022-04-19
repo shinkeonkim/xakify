@@ -1,11 +1,11 @@
-# xakify
+# xaskify
 
 Maskify Page
 
 ## Installation
 
 ```
-yarn add xakify
+npm i --save xaskify
 ```
 
 ## Usage
